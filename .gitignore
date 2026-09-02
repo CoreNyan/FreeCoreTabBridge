@@ -1,0 +1,16 @@
+.gradle/
+build/
+target/
+out/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+*.secret
+*.key
+*.pem

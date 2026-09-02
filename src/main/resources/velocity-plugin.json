@@ -1,0 +1,10 @@
+{
+  "id": "fctabbridge",
+  "name": "FCTabBridge",
+  "version": "1.0.0",
+  "main": "cc.freecore.fctabbridge.FCTabBridgePlugin",
+  "authors": ["FreeCore"],
+  "dependencies": [
+    { "id": "tab", "optional": false }
+  ]
+}
